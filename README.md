@@ -1,5 +1,5 @@
 # Self-balancing-robot-PID
-This is a code developed to keep a two wheeled robot vertically stable using the PID control logic. Just not that every system has its own PID value that it responds to. You need to understand your system requirements and tune the PID parameters to meet it.  
+This is a project about developing  a system that keeps a two wheeled robot vertically stable using the PID control logic. Just note that every system has its own PID value that it responds to. You need to understand your system requirements and tune the PID parameters to meet it.  
 
 Key points.
 * Make sure your MPU6050 gyroscope is wheel screwed to the bot chassis, the bot might never be stable if this is violated.
