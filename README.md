@@ -1,10 +1,10 @@
 # Self-Balancing Robot PID Control
-This is a project about developing a system that keeps a two-wheeled robot vertically stable using the PID control logic. Just note that every system has its own PID value that it responds to. You need to understand your system requirements and tune the PID parameters to meet them.
+A two-wheeled robot is naturally unstable. Without active correction, it falls. This project implements a PID control system on an Arduino to keep the robot upright in real time by continuously reading the tilt angle from an MPU6050 sensor and adjusting motor speed accordingly. The results were validated using a digital twin built with serial data logged directly from the Arduino.
 
 
-Read the full write up here: [What Building a Self Balancing Robot Taught Me After Many Days of Tuning](https://www.linkedin.com/in/salisutitilola123)
+Read the full write-up here: [What Building a Self-Balancing Robot Taught Me After Many Days of Tuning](https://www.linkedin.com/in/salisutitilola123)
 
-Want to see the system behaviour visualised in real time? Check out the [Self Balancing Robot Digital Twin](https://github.com/i-am-the-robot/Self-Balancing-Robot-Digital-Twin) repository.
+Want to see the system behaviour visualised in real time? Check out the [Self-Balancing Robot Digital Twin](https://github.com/i-am-the-robot/Self-Balancing-Robot-Digital-Twin) repository.
 
 ---
 
@@ -41,6 +41,8 @@ Want to see the system behaviour visualised in real time? Check out the [Self Ba
 | VCC (12V) | Battery positive |
 | VS (5V) | Arduino Vin |
 | GND | Battery negative and Arduino GND |
+
+![Step Response Graph](Self Balancing Robot.png)
 
 Note: Your pin assignments may be different depending on how you wired your board. Check your code and adjust accordingly.
 
@@ -112,6 +114,7 @@ It will not work on the first try. It can be frustrating. Just keep tuning.
 | Maximum recoverable disturbance | 4° |
 | Beyond 4° | Falls, 45° cutoff stops the motors |
 
+![Step Response Graph](graph.png)
 ---
 
 ## Future Work
