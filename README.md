@@ -42,7 +42,7 @@ Want to see the system behaviour visualised in real time? Check out the [Self-Ba
 | VS (5V) | Arduino Vin |
 | GND | Battery negative and Arduino GND |
 
-![Step Response Graph](Self Balancing Robot.png)
+![Circuit](Self Balancing Robot.png)
 
 Note: Your pin assignments may be different depending on how you wired your board. Check your code and adjust accordingly.
 
