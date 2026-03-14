@@ -11,9 +11,9 @@ Want to see the system behaviour visualised in real time? Check out the [Self Ba
 ## Hardware Required
 
 | Component | Quantity |
-
-| Arduino Uno | 1 |
-| MPU6050 Sensor | 1 |
+|---|---|
+| Arduino Uno |        1 |
+| MPU6050 Sensor |     1 |
 | L298N Motor Driver | 1 |
 | DC TT Gear Motors | 2 |
 | 3.7V Li ion Battery | 2 |
