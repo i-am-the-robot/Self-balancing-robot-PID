@@ -11,7 +11,7 @@ Want to see the system behaviour visualised in real time? Check out the [Self Ba
 ## Hardware Required
 
 | Component | Quantity |
-|---|---|
+
 | Arduino Uno | 1 |
 | MPU6050 Sensor | 1 |
 | L298N Motor Driver | 1 |
