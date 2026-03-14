@@ -2,7 +2,6 @@
 This is a project about developing a system that keeps a two-wheeled robot vertically stable using the PID control logic. Just note that every system has its own PID value that it responds to. You need to understand your system requirements and tune the PID parameters to meet them.
 
 
-
 Read the full write up here: [What Building a Self Balancing Robot Taught Me After Many Days of Tuning](https://www.linkedin.com/in/salisutitilola123)
 
 Want to see the system behaviour visualised in real time? Check out the [Self Balancing Robot Digital Twin](https://github.com/i-am-the-robot/Self-Balancing-Robot-Digital-Twin) repository.
@@ -12,13 +11,13 @@ Want to see the system behaviour visualised in real time? Check out the [Self Ba
 ## Hardware Required
 
 | Component | Quantity |
-
-| Arduino Board |         1 |
-| MPU6050 Sensor |        1 |
-| L298N Motor Driver|     1 |
-| DC TT Gear Motors |     2 |
-| 3.7V Li ion Battery |   2 |
-| Jumper Wires |  As needed |
+|---|---|
+| Arduino Uno | 1 |
+| MPU6050 Sensor | 1 |
+| L298N Motor Driver | 1 |
+| DC TT Gear Motors | 2 |
+| 3.7V Li ion Battery | 2 |
+| Jumper Wires | As needed |
 
 ---
 
@@ -118,7 +117,19 @@ It will not work on the first try. It can be frustrating. Just keep tuning.
 
 - Kalman filter for smoother MPU6050 angle feedback
 - Cascaded PID with separate loops for angle and velocity
-- Remote setpoint interface for real time monitoring
+- Remote setpoint interface for real-time monitoring
+
+---
+
+*Every system has its own parameter values. You must understand your system to know what will work for it.*
+
+---
+
+## Future Work
+
+- Kalman filter for smoother MPU6050 angle feedback
+- Cascaded PID with separate loops for angle and velocity
+- Remote setpoint interface for real-time monitoring
 
 ---
 
