@@ -37,7 +37,7 @@ DC TT Gear Motors with wheels
 ![Wires](Jumper_Wire.jpeg)
 Jumper wires for connections
 
-![Wood](Plywood.jpg)
+![Wood](Plywood..jpg)
 Plywood (platform for your materials)
 
 ---
