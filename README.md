@@ -20,25 +20,25 @@ Want to see the system behaviour visualised in real time? Check out the [Self-Ba
 | Jumper Wires | As needed |
 
 ![Arduino](Arduino_Uno.jpeg)  
-Arduino Uno
+Arduino Uno  
 
-![MPU](MPU6050.jpg)
-MPU6050 Sensor
+![MPU](MPU6050.jpg)  
+MPU6050 Sensor  
 
-![L298N](L298N.jpg)
-L298N Motor Driver
+![L298N](L298N.jpg)  
+L298N Motor Driver  
 
-![Motor](TT_Motors.jpeg)
-DC TT Gear Motors with wheels
+![Motor](TT_Motors.jpeg)  
+DC TT Gear Motors with wheels  
 
-![Batteries](Batteries.jpg)
-3.7V 18650 Li-ion Batteries
+![Batteries](Batteries.jpg)  
+3.7V 18650 Li-ion Batteries  
 
-![Wires](Jumper_Wire.jpeg)
-Jumper wires for connections
+![Wires](Jumper_Wire.jpeg)  
+Jumper wires for connections  
 
-![Wood](Plywood..jpg)
-Plywood (platform for your materials)
+![Wood](Plywood..jpg)  
+Plywood (platform for your materials)  
 
 ---
 
