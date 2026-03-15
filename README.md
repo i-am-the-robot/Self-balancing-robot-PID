@@ -25,6 +25,21 @@ Arduino Uno
 ![MPU](MPU6050.jpg)
 MPU6050 Sensor
 
+![L298N](L298N.jpg)
+L298N Motor Driver
+
+![Motor](TT_Motors.jpeg)
+DC TT Gear Motors with wheels
+
+![Batteries](Batteries.jpg)
+3.7V 18650 Li-ion Batteries
+
+![Wires](Jumper_Wire.jpeg)
+Jumper wires for connections
+
+![Wood](Plywood.jpg)
+Plywood (platform for your materials)
+
 ---
 
 ## Building and Arranging the Robot. Getting the Centre of Gravity Right
