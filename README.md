@@ -184,9 +184,9 @@ It will not work on the first try. It can be frustrating. Just keep tuning.
 |---|---|
 | Flat surface | Stable |
 | Slightly inclined surface | Took longer to stabilise |
-| 3° disturbance | Recovered in approximately 3 seconds |
+| 3° disturbance | Recovered in approximately 0.48 seconds |
 | Maximum recoverable disturbance | 4° |
-| Beyond 4° | Falls, 45° cutoff stops the motors |
+|Falls, 45° cutoff stops the motors |
 
 ![Step Response Graph](graph.png)
 
